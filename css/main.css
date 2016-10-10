@@ -21,6 +21,14 @@ html {
   background-color: #e2e2e2;
 }
 
+body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
 li {
   list-style-type: none;
   display: inline-block;
@@ -29,14 +37,6 @@ li {
 a {
   text-decoration: none;
   color: #0074d9;
-}
-
-body {
-  margin: 0;
-}
-
-h1 {
-  text-align: center;
 }
 
 ul {
